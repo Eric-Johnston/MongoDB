@@ -1,6 +1,0 @@
-
-
-
-$("#scrapeBtn").on("click", function () {
-
-});
