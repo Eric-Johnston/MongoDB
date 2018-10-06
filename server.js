@@ -31,7 +31,7 @@ app.set("view engine", "handlebars");
 //require("./routes/htmlRoutes")(app);
 
 //mongoose.connect("mongodb://localhost/headlinesDB");
-
+// test
 
 app.listen(PORT, function () {
     console.log(`Connection successful! Listening on port: ${PORT}`);
